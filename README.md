@@ -60,7 +60,6 @@ The main preparation steps included:
 - Merging 5 distinct tables into a consolidated `Master_Data` table.
 - Validating output integrity and data types across all merged records.
 
-  ERD Design
   <img width="626" height="528" alt="ERD Model_ Master Data_Gayanara" src="https://github.com/user-attachments/assets/8b9b64d3-a913-4b72-b96e-a6ce7c13721d" />
 
 
